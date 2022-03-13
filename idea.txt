@@ -1,8 +1,0 @@
-create an array with only 0 usinf a function
-have a chack variable
-if letter found chack = 1
-that space in array becomes 1
-diaplay func which diaplays all those one rest as underscore
-only run the check loop and print loop until we have the lenght
-handle - entering same right letter 
-winning
